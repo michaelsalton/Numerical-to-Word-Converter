@@ -1,5 +1,5 @@
 /*
-Filename: intToEnglish.c
+Filename: numerical_to_word_converter
 Filetype: C file
 Author: Michael Salton
 Course: CS2211
